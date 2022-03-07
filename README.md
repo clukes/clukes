@@ -1,4 +1,4 @@
-![Banner](./logo/cover.png)
+![Banner](./logo/banner.png)
 
 <h1 align="center">Hi 👋, I'm Conner Lukes</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
