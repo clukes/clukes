@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/25383436/155003729-5c49bb6b-5b43-4aaa-b074-e76d5b0c17d2.png)
+![Banner](./logo/cover.png)
 
 <h1 align="center">Hi 👋, I'm Conner Lukes</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
