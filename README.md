@@ -1,11 +1,11 @@
 ![Banner](./logo/banner.png)
 
 <h1 align="center">Hi 👋, I'm Conner Lukes</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <p align="left">
-  I am a Computer Science Graduate 🏫 who is passionate about programming 💻, and mainly interested in back-end development.
+  I am a Software Engineer 🏫 who is passionate about programming 💻, and mainly interested in back-end development.
 </p>
 
 <h3 align="left">Programming Languages:</h3>
