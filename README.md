@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  I am a Software Engineer 🏫 who is passionate about programming 💻, and mainly interested in back-end development.
+  I am a Software Engineer who is passionate about programming, and mainly interested in back-end development.
 </p>
 
 <h3 align="left">Programming Languages:</h3>
